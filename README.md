@@ -28,7 +28,7 @@ Using a user-friendly interface and a smart rule-based algorithm, it provides **
 
 ## 🌐 Live Demo
 
-🔗 [https://investly-eight.vercel.app/](https://investly-eight.vercel.app/)
+🔗 [https://investly-v-2-0.vercel.app/](investly-v-2-0.vercel.app)
 
 > ⚠️ API calls are limited to 5/day (Free TradingView tier). For uninterrupted use, consider upgrading or adding a caching layer.
 
